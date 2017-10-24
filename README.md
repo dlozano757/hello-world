@@ -1,3 +1,6 @@
-# hello-world
-Comenzando con git
-Soy un profesional con curiosidad por las tecnologias de la informacion.
+# Larry Plotter
+
+Esta serie de libros cuentan la historia de un hacker de leyenda.
+
+
+**David Lozano**
